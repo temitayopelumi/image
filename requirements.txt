@@ -1,5 +1,5 @@
 
-Django @ file:///home/conda/feedstock_root/build_artifacts/django_1602770714764/work
+
 
 django-cors-headers==3.5.0
 django-filter==2.4.0
